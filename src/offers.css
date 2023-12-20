@@ -1,0 +1,35 @@
+.offers{
+    margin-top: 17px;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.offers hr{
+    border: 1px solid #847b7ba1;
+    width: 90%;
+}
+.offers-option{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.offers-option p{
+    padding :4px 7px;
+    margin: 0 25px;
+    color:rgb(228, 26, 26);
+    cursor: pointer;
+}
+.offers-option p:hover{
+    
+    background-color:rgb(156, 62, 62);
+    color: #fff;
+    cursor: pointer;
+    
+}
+.offers img{
+margin-top: -10px;
+}
+

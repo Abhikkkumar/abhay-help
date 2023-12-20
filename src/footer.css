@@ -1,0 +1,19 @@
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px ;
+}
+.footer-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.footer-list span {
+  font-size: 30px;
+}
+.footer-list:hover {
+  color: rgb(226, 29, 29);
+}

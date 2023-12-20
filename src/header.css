@@ -1,0 +1,21 @@
+.header{
+    max-height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+    padding: 3px 5px;
+    box-sizing: border-box;
+}
+.logo{
+    width: 50px;
+    border-radius: 10px;
+    
+}
+.bars{
+    font-size: 40px;
+    margin-right: 7px;
+    color: rgb(226, 47, 47);
+    cursor: pointer;
+}
